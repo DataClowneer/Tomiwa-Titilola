@@ -11,7 +11,7 @@ Skilled in Python, SQL, Excel, and Power BI.
 Currently exploring projects in financial risk analysis, automation, and YouTube analytics.
 Always learning. Always building.
 
-- 🔭 I’m currently working on **Superstore Dataset EDA**
+- 🔭 I’m currently working on **a Superstore Dataset EDA**
 
 - 🌱 I’m currently learning **MATLAB, Machine Learning, AI.**
 
